@@ -3,7 +3,7 @@ package inheritance;
 public class Main {
 
 	public static void main(String[] args) {
-		// inheritance
+		// inheritance 
 		
 		IndividualCustomer engin = new IndividualCustomer();
 		engin.customerNumber = "12345";
